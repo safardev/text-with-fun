@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/text-with-fun/static/css/main.31d6cfe0.css",
+    "main.js": "/text-with-fun/static/js/main.736995b9.js",
+    "static/js/787.5d43886e.chunk.js": "/text-with-fun/static/js/787.5d43886e.chunk.js",
+    "index.html": "/text-with-fun/index.html",
+    "main.736995b9.js.map": "/text-with-fun/static/js/main.736995b9.js.map",
+    "787.5d43886e.chunk.js.map": "/text-with-fun/static/js/787.5d43886e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.736995b9.js"
+  ]
+}
